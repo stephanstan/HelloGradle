@@ -31,3 +31,9 @@
 
 # "temporary" build files
 /target
+/build/reports
+/build/test-results
+.gradle/2.9/tastArtifacts
+*.bin
+
+*.class
